@@ -1,5 +1,5 @@
 # LLM-PDEveloper
-
+Wu Haoyang, Ni Wanglai
 ## Installation
 ```
 conda env create -n pdeveloper -f environment.yml
@@ -20,3 +20,6 @@ conda activate pdeveloper
 cd examples/AD/minipack
 bash o1-test.sh
 ```
+
+
+
