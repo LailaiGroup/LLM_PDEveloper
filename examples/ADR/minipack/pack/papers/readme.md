@@ -1,0 +1,1 @@
+we select a more complicated equilibrium function for Advection-diffusion model due to: https://journals-aps-org.libproxy1.nus.edu.sg/pre/pdf/10.1103/PhysRevE.55.2780
