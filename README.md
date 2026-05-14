@@ -1,5 +1,5 @@
 # LLM-PDEveloper
-Wu Haoyang, Ni Wanglai
+Wu Haoyang, Ni Wanglai, Zhang Xinxin
 ## Installation
 ```
 conda env create -n pdeveloper -f environment.yml
